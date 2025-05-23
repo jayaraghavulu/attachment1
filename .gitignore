@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables file
+.env
+
+# Example data, not relevant anymore
+migration_email_qa_data.xlsx
+
+#example emails
+example_emails/
+
+# Python cache directories
+__pycache__/

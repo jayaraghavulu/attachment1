@@ -1,0 +1,7 @@
+extract-msg
+pandas
+beautifulsoup4
+google-genai
+python-dotenv
+openpyxl
+tabulate
